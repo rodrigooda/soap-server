@@ -1,0 +1,4 @@
+com\bean\Pessoa.class
+com\soap\PessoaService.class
+com\app\Application.class
+com\soap\PessoaServiceImpl.class
